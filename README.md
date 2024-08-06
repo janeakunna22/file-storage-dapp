@@ -36,7 +36,7 @@ Here are some packages you need to have installed on your PC:
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/your-repo/decentralized-file-storage-verification.git
+   git clone https://github.com/janeakunna/file-storage-dapp.git
    ```
 2. Install NPM packages
    ```sh

@@ -2,8 +2,8 @@
     "name": "file-storage-dapp",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/<name>/file-storage-dapp.git",
-    "author": "<name> <email>",
+    "repository": "https://github.com/janeakunna/file-storage-dapp.git",
+    "author": "jane akunna <akunnajane@outlook.com>",
     "license": "MIT",
     "private": true,
     "dependencies": {
